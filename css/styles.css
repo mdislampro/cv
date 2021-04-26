@@ -4,7 +4,8 @@
     }
     hr {
       
-      border-style: dotted none none;
+      border-style: none;
+      border-top-dotted: dotted;
       
       border-width: 7px;
       border-color: grey;
